@@ -1,0 +1,16 @@
+{
+"companyName": "MVS",
+"productName": "DBRAGA",
+"productVersion": "2",
+"dataUrl": "DBRAGA1.data.unityweb",
+"wasmCodeUrl": "DBRAGA1.wasm.code.unityweb",
+"wasmFrameworkUrl": "DBRAGA1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#805F54",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.13f1"
+}
